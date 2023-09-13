@@ -4,10 +4,26 @@
 
 <div class="grid-container">
 	<div class="grid">
-		<Artwork art="painted_red" tall />
-		<Artwork art="drowning" />
-		<Artwork art="BL1NG!" tall />
-		<Artwork art="811" />
+		<Artwork art="1" tall />
+		<Artwork art="2" tall />
+		<Artwork art="3" tall />	
+		<Artwork art="4" />	
+		<Artwork art="5" tall />	
+		<Artwork art="6" tall />	
+		<Artwork art="7" />	
+		<Artwork art="8" tall />	
+		<Artwork art="9" tall />	
+		<Artwork art="10" />	
+		<Artwork art="11" tall />	
+		<Artwork art="12" />	
+		<Artwork art="13" />	
+		<Artwork art="14" tall />	
+		<Artwork art="15" />	
+		<Artwork art="16" tall />	
+
+
+
+
 		<Artwork art="diverge" tall />
 		<Artwork art="FADE" tall />
 		<Artwork
